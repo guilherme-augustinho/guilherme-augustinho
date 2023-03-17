@@ -14,17 +14,9 @@
 <p align="center">
 👨‍🎓 Cursando Desenvolvimento de sistemas na Bosch.
 </p>
-<p align="center">
-🎉 06/07/2005 
-</p>
-<p align="center">
-
-</p>
 
 ###
 
-
-
-<center>
-<img align="left" height="200" src="https://i.pinimg.com/originals/ed/87/09/ed87091677cfbc14672a4f87a0e4e416.gif"  />
-</center>
+<p align="center">
+<img align="center" height="200" src="https://media.tenor.com/PqJ7yMX9GFoAAAAC/bruce-almighty-comedy.gif"  />
+</p>
