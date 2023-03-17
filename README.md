@@ -25,6 +25,6 @@
 
 
 
-<p align='center'>
+<center>
 <img align="left" height="200" src="https://i.pinimg.com/originals/ed/87/09/ed87091677cfbc14672a4f87a0e4e416.gif"  />
-</p>
+</center>
