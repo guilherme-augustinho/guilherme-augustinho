@@ -27,3 +27,5 @@
 <p align="center">
 <img align="center" height="200" src="https://media.tenor.com/HnurQKt7zSQAAAAC/jim-carrey-jim-carrey-typing.gif"  />
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
