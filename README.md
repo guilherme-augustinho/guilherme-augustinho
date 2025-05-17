@@ -1,17 +1,13 @@
 <img width=100% src="http://capsule-render.vercel.app/api?type=waving&color=ffffff&height=180&section=header&text=Guilherme%20Proença&fontSize=30&fontColor=black&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Guilherme+Proença;I'm+18+Years+Old;I'm+From+Curitiba,+PR;I+Study+Software+Engineering;Welcome!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Guilherme+Proença;I'm+19+Years+Old;I'm+From+Lleida,Spain;I+Study+programmig;Welcome!:%29)](https://git.io/typing-svg)
 
 <!-- ======================================================================================================================================================================================================= -->
 
 <h2 align="center">Sobre mim</h2>
 <p align="center">
-📚 Engenheiro de Software em formação (1º Período)
+👨‍🎓 Cursando Desenvolvimento de sistemas Web y Movil na Masterd.
 </p>
-<p align="center">
-👨‍🎓 Cursando Desenvolvimento de sistemas na Bosch.
-</p>
-
 
 ##
 <!-- ======================================================================================================================================================================================================= -->
