@@ -4,9 +4,10 @@
 
 <!-- ======================================================================================================================================================================================================= -->
 
-<h2 align="center">Sobre mim</h2>
+<h2 align="center">Sobre mi: </h2>
 <p align="center">
-👨‍🎓 Cursando Desenvolvimento de sistemas Web y Movil na Masterd.
+👨‍🎓 Cursando Dessarrollo de sistemas Web y Movil en Masterd.
+💼 Trabajando en la contrucción civil como peón actualmiente.
 </p>
 
 ##
