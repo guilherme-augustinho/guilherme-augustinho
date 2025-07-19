@@ -6,8 +6,8 @@
 
 <h2 align="center">Sobre mi: </h2>
 <p align="center">
-👨‍🎓 Cursando Dessarrollo de sistemas Web y Movil en Masterd.
-💼 Trabajando en la contrucción civil como peón actualmiente.
+👨‍🎓 Cursando Desarrollo de Sistemas Web y Móvil en MasterD <br>
+💼 Trabajando en la construcción civil como peón actualmente
 </p>
 
 ##
